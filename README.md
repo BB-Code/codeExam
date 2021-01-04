@@ -2,10 +2,12 @@
 
 <div align="center">
   <img src="./images/logo.png" width="100px">
+
   ![pr-welcoming-url](https://github.com/BB-Code/codeExam/pulls)
   ![travis-ci.svg](https://www.travis-ci.com/BB-Code/codeExam.svg?branch=master&status=passed)
   ![author](https://img.shields.io/badge/author-BB-Code-brightgreen)
   ![licence](https://img.shields.io/badge/MIT-Licence-brightblue)
+  
 </div>
 
 <p align="center">
