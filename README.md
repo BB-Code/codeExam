@@ -4,6 +4,11 @@
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 - 基于小程序云开发
+- 初始化云数据库
+- 初始化题库
+- 页面的编写
+- 题库的获取循环列表
+
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
