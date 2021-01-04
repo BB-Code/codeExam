@@ -1,13 +1,64 @@
 # 编程题库
+
+<div align="center">
+  <img src="./images/logo.png" width="100px">
+
+  [![gitter][gitter-image]][gitter-url]
+  [![NPM version][npm-image]][npm-url]
+  [![build status][travis-image]][travis-url]
+  [![Test coverage][coveralls-image]][coveralls-url]
+  [![PR's Welcome][pr-welcoming-image]][pr-welcoming-url]
+
+</div>
+
+<p align="center">
+  codeExam 是小程序云开发的编程题库
+</p>
+
+## 实现功能
+
+- [ ] **基于小程序云开发**: 
+- [ ] **初始化云数据库**: 
+- [ ] **初始化题库**: 
+- [ ] **页面的编写**: 
+- [ ] **题库的获取循环列表**: 
+
+
+
+## 快速开始
+
+### 步骤 1. 准备
+
+下载仓库，安装并启动
+
+```bash
+$ git clone git@github.com:BB-Code/codeExam.git
+$ cd codeExam
+$ npm install
+```
+此时小程序编辑器打开项目，点击编译可以看到运行效果
+
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-- 基于小程序云开发
-- 初始化云数据库
-- 初始化题库
-- 页面的编写
-- 题库的获取循环列表
+
+
+## 贡献
+
+1. Fork 本仓库
+2. 创建分支 (git checkout -b my-new-feature)
+3. 提交修改 (git commit -am 'Add some feature')
+4. 推送 (git push origin my-new-feature)
+5. 创建 Pull Request
+
+## 欢迎fork和反馈
+
+如有建议或意见，欢迎在 github issues 区提问
+
+## 协议
+
+本仓库遵循 MIT 协议
 
 ## Contributors ✨
 
