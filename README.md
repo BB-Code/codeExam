@@ -2,12 +2,11 @@
 
 <div align="center">
   <img src="./images/logo.png" width="100px">
-
-  ![pr-welcoming-url](https://github.com/BB-Code/codeExam/pulls)
-  ![travis-ci.svg](https://www.travis-ci.com/BB-Code/codeExam.svg?branch=master&status=passed)
-  ![author](https://img.shields.io/badge/author-BB-Code-brightgreen)
-  ![licence](https://img.shields.io/badge/MIT-Licence-brightblue)
-  
+    <p align="center">
+          <a href="https://github.com/BB-Code/codeExam/pulls"><img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-Welcome-brightgreen.svg?style=flat-square"></a>
+          <a href="https://travis-ci.org/BB-Code/codeExam"><img alt="build" src="https://img.shields.io/travis/BB-Code/codeExam.svg?style=flat-square"></a>
+          <a href="https://github.com/BB-Code/codeExam"><img alt="licence" src="https://img.shields.io/badge/lincese-MIT-green.svg?style=flat-square"></a>
+    </p>
 </div>
 
 <p align="center">
