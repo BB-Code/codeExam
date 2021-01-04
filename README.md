@@ -2,13 +2,10 @@
 
 <div align="center">
   <img src="./images/logo.png" width="100px">
-
-  [![gitter][gitter-image]][gitter-url]
-  [![NPM version][npm-image]][npm-url]
-  [![build status][travis-image]][travis-url]
-  [![Test coverage][coveralls-image]][coveralls-url]
-  [![PR's Welcome][pr-welcoming-image]][pr-welcoming-url]
-
+  ![pr-welcoming-url](https://github.com/BB-Code/codeExam/pulls)
+  ![travis-ci.svg](https://www.travis-ci.com/BB-Code/codeExam.svg?branch=master&status=passed)
+  ![author](https://img.shields.io/badge/author-BB-Code-brightgreen)
+  ![licence](https://img.shields.io/badge/MIT-Licence-brightblue)
 </div>
 
 <p align="center">
@@ -17,7 +14,6 @@
 
 ## 实现功能
 
-- [ ] **基于小程序云开发**: 
 - [ ] **初始化云数据库**: 
 - [ ] **初始化题库**: 
 - [ ] **页面的编写**: 
